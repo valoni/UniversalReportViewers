@@ -31,7 +31,7 @@
 		
 			string ConnSTR = "Data Source=.\\SqlExpress2016;Initial Catalog=Northwind;User Id=sa;Password=sa;";
 			string FileName="test"; //test.rdl
-			string ="Select * From Employees"; //test.rdl
+			string ReportScripts="Select * From Employees"; //test.rdl
 		
 			
 			string SQLSelect = ReportScripts;
